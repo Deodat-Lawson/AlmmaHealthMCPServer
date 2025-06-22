@@ -1,0 +1,49 @@
+{
+  "1904.00267v1": {
+    "title": "Price equations with symmetric supply/demand; implications for fat tails",
+    "authors": [
+      "Carey Caginalp",
+      "Gunduz Caginalp"
+    ],
+    "summary": "Implementing a set of microeconomic criteria, we develop price dynamics\nequations using a function of demand/supply with key symmetry properties. The\nfunction of demand/supply can be linear or nonlinear. The type of function\ndetermines the nature of the tail of the distribution based on the randomness\nin the supply and demand. For example, if supply and demand are normally\ndistributed, and the function is assumed to be linear, then the density of\nrelative price change has behavior $x^{-2}$ for large $x$ (i.e., large\ndeviations). The exponent approaches $-1$ if the function of supply and demand\ninvolves a large exponent. The falloff is exponential, i.e., $e^{-x}$, if the\nfunction of supply and demand is logarithmic.",
+    "pdf_url": "http://arxiv.org/pdf/1904.00267v1",
+    "published": "2019-03-30"
+  },
+  "2307.00413v1": {
+    "title": "The Classical Theory of Supply and Demand",
+    "authors": [
+      "Sabiou Inoua",
+      "Vernon Smith"
+    ],
+    "summary": "This paper introduces and formalizes the classical view on supply and demand,\nwhich, we argue, has an integrity independent and distinct from the\nneoclassical theory. Demand and supply, before the marginal revolution, are\ndefined not by an unobservable criterion such as a utility function, but by an\nobservable monetary variable, the reservation price: the buyer's (maximum)\nwillingness to pay (WTP) value (a potential price) and the seller's (minimum)\nwillingness to accept (WTA) value (a potential price) at the marketplace.\nMarket demand and supply are the cumulative distribution of the buyers' and\nsellers' reservation prices, respectively. This WTP-WTA classical view of\nsupply and demand formed the means whereby market participants were motivated\nin experimental economics although experimentalists (trained in neoclassical\neconomics) were not cognizant of their link to the past. On this foundation was\nerected a vast literature on the rules of trading for a host of institutions,\nmodern and ancient. This paper documents textually this reappraisal of\nclassical economics and then formalizes it mathematically. A follow-up paper\nwill articulate a theory of market price formation rooted in this classical\nview on supply and demand and in experimental findings on market behavior.",
+    "pdf_url": "http://arxiv.org/pdf/2307.00413v1",
+    "published": "2023-07-01"
+  },
+  "2012.04506v1": {
+    "title": "Business Cycles as Collective Risk Fluctuations",
+    "authors": [
+      "Victor Olkhov"
+    ],
+    "summary": "We suggest use continuous numerical risk grades [0,1] of R for a single risk\nor the unit cube in Rn for n risks as the economic domain. We consider risk\nratings of economic agents as their coordinates in the economic domain.\nEconomic activity of agents, economic or other factors change agents risk\nratings and that cause motion of agents in the economic domain. Aggregations of\nvariables and transactions of individual agents in small volume of economic\ndomain establish the continuous economic media approximation that describes\ncollective variables, transactions and their flows in the economic domain as\nfunctions of risk coordinates. Any economic variable A(t,x) defines mean risk\nXA(t) as risk weighted by economic variable A(t,x). Collective flows of\neconomic variables in bounded economic domain fluctuate from secure to risky\narea and back. These fluctuations of flows cause time oscillations of\nmacroeconomic variables A(t) and their mean risks XA(t) in economic domain and\nare the origin of any business and credit cycles. We derive equations that\ndescribe evolution of collective variables, transactions and their flows in the\neconomic domain. As illustration we present simple self-consistent equations of\nsupply-demand cycles that describe fluctuations of supply, demand and their\nmean risks.",
+    "pdf_url": "http://arxiv.org/pdf/2012.04506v1",
+    "published": "2020-12-08"
+  },
+  "1510.02435v1": {
+    "title": "Information equilibrium as an economic principle",
+    "authors": [
+      "Jason Smith"
+    ],
+    "summary": "A general information equilibrium model in the case of ideal information\ntransfer is defined and then used to derive the relationship between supply\n(information destination) and demand (information source) with the price as the\ndetector of information exchange between demand and supply. We recover the\nproperties of the traditional economic supply-demand diagram. Information\nequilibrium is then applied to macroeconomic problems, recovering some common\nmacroeconomic models in particular limits like the AD-AS model, IS-LM model (in\na low inflation limit), the quantity theory of money (in a high inflation\nlimit) and the Solow-Swan growth model. Information equilibrium results in\nempirically accurate models of inflation and interest rates, and can be used to\nmotivate a 'statistical economics', analogous to statistical mechanics for\nthermodynamics.",
+    "pdf_url": "http://arxiv.org/pdf/1510.02435v1",
+    "published": "2015-10-08"
+  },
+  "2007.11439v1": {
+    "title": "A comprehensive view of the manifestations of aggregate demand and aggregate supply shocks in Greece, Ireland, Italy and Portugal",
+    "authors": [
+      "Ionut Jianu"
+    ],
+    "summary": "The main goal of the paper is to extract the aggregate demand and aggregate\nsupply shocks in Greece, Ireland, Italy and Portugal, as well as to examine the\ncorrelation among the two types of shocks. The decomposition of the shocks was\nachieved by using a structural vector autoregression that analyses the\nrelationship between the evolution of the gross domestic product and inflation\nin the period 1997-2015. The goal of the paper is to confirm the aggregate\ndemand - aggregate supply model in the above-mentioned economies.",
+    "pdf_url": "http://arxiv.org/pdf/2007.11439v1",
+    "published": "2020-07-20"
+  }
+}
