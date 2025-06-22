@@ -8,4 +8,5 @@
    2. `source .venv/bin/activate`
 4. Lunch the inspector by running
     1. `npx @modelcontextprotocol/inspector uv run research_server.py`
-
+5. Run the chatbot by the command `uv run mcp_chatbot.py
+`
